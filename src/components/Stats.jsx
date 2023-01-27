@@ -1,5 +1,5 @@
 import styles from "../styles"
-import { stats } from "../constatnts"
+import { stats } from "../constants"
 
 export default function Stats() {
   return (
